@@ -36,7 +36,9 @@ module.exports = {
     alias: {
       '@': resolve('src'),
       'common': resolve('src/common'), //配置路径使文件像据对路径一样引入
-      'components': resolve('src/components')
+      'components': resolve('src/components'),
+      'api': resolve('src/api'),
+      'base': resolve('src/base')
     }
   },
   module: {
