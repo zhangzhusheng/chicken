@@ -14,7 +14,11 @@ export default {}
     position: relative
     height: 44px
     text-align: center
+<<<<<<< HEAD
     color: $color-theme
+=======
+    color $color-theme
+>>>>>>> music1.0
     font-size 0
     .icon
       display: inline-block

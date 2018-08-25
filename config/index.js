@@ -44,8 +44,13 @@ module.exports = {
   },
 
   build: {
+<<<<<<< HEAD
     // Template for index.html
     index: path.resolve(__dirname, '../dist/index.html'),
+=======
+    // Template for index.js.html
+    index: path.resolve(__dirname, '../dist/index.js.html'),
+>>>>>>> music1.0
 
     // Paths
     assetsRoot: path.resolve(__dirname, '../dist'),
